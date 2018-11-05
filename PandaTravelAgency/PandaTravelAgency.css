@@ -1,0 +1,23 @@
+/*
+* Caitlin Donnelly
+* 11/2/18
+* Panda Travel Agency
+*/
+
+/* The universal selector */
+
+* { 
+
+}
+
+/* Body attributes here */
+
+body {
+    background-color: lightgray;
+    color: black;
+}
+#TheStanleyHotel {width: 600px; height: 300px;}
+#EstesPark {width:600px; height:700; }
+#estescolorado {float: right;}
+#Shining {width:250px; height:300px; }
+#shiningfig {float: right;}
